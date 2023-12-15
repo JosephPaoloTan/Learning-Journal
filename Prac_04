@@ -1,0 +1,12 @@
+**Learning Activities**
+This week I created a local wordpress site and used xampp to run apache and sql. First I downloaded xampp and also wordpress then placed the wordpress file into xampp/htdocs . Next in the xampp control panel
+I start both apache and MySQL. At first the SQL did not want to start since there was another process using the same port, so I had to end the task and rerun. next, I launch the site in https://localhost/wordpress 
+which brought me to the setup page. From here they ask for details of thedatabase, so I went to https://localhost/phpmyadmin to create a new database and add the details. After all the necessary setup the local 
+wordpress was ready.
+
+**Estimated Hours**
+It took me about 2 hours to complete the whole setup
+
+**Content Insights** 
+Craeting a local site is very good for web developing as it allows us to make changes and create the site properly before actually uploading it to be used online. Other people will not be able to see a half-finished 
+website. It makes redesigning and remodelling easier and also troubleshooting can be done better for bugs, issues, errors, etc.
